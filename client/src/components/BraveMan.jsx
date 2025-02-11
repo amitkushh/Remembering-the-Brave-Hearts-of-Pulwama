@@ -1,11 +1,17 @@
-import React from 'react'
+import React from "react";
+import Soldier from "../components/Soldier/Soldier";
 
 function BraveMan() {
   return (
-    <div>
-      
+    <div className="mx-7 my-16 flex flex-col justify-center items-center">
+      <div>
+        <h2 className="text-white mb-9 text-3xl font-bold ">
+          Martyrs of Pulwama
+        </h2>
+      </div>
+      <Soldier />
     </div>
-  )
+  );
 }
 
-export default BraveMan
+export default BraveMan;
