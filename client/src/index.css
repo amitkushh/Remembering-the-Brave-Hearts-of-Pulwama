@@ -18,8 +18,8 @@ html {
 }
 
 ::selection {
-  background-color: #1a1a1a;
-  color: #ffffff;
+  background-color: #ffd000;
+  color: #000000;
 }
 
 img {

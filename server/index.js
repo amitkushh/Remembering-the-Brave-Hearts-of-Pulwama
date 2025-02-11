@@ -10,10 +10,6 @@ const port = process.env.PORT || 4000;
 
 connectDb();
 
-app.get("/", (req, res) => {
-  res.send("Hello welocme to home page");
-});
-
 app.use("/api/soldiers", router);
 
 app.listen(port, () => {

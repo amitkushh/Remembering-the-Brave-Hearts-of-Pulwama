@@ -13,6 +13,7 @@ function Footer() {
           Bharat Ke Veer
         </a>
       </p>
+      <p className="text-white mt-3">Made by Amit Kushwaha</p>
     </div>
   );
 }
