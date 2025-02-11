@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "pulwama attack project",
+  "description": "pulwama project",
   "main": "index.js",
   "type": "module",
   "scripts": {
