@@ -21,7 +21,7 @@ const AudioPlayer = () => {
   return (
     <div className="flex justify-center items-center gap-2">
       <audio ref={audioRef}>
-        <source src="public/music.mp3" type="audio/mp3" />
+        <source src="/music.mp3" type="audio/mp3" />
       </audio>
       <br />
       <button
