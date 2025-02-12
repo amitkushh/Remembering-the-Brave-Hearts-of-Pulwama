@@ -1,12 +1,172 @@
 [
   {
-    "name": "ramesh",
-    "position": "counstable",
-    "state": "bihar"
+    "name": "Ajit Kumar Azad",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
   },
   {
-    "name": "rahul",
-    "position": "counstable",
-    "state": "punjab"
+    "name": "Amit Kumar",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ashvni Kumar Kaochi",
+    "position": "Constable",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Awadhesh Kumar Yadav",
+    "position": "Head Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Bablu Santra",
+    "position": "Head Constable",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Bhagirath Singh",
+    "position": "Constable",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "GD Guru H",
+    "position": "Constable",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Hemraj Meena",
+    "position": "Head Constable",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jaimal Singh",
+    "position": "Head Constable",
+    "state": "Punjab"
+  },
+  {
+    "name": "Jeet Ram",
+    "position": "Constable",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Koushal Kumar Rawat",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kulwinder Singh",
+    "position": "Constable",
+    "state": "Punjab"
+  },
+  {
+    "name": "Mahesh Kumar",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Maneswar Bsumatari",
+    "position": "Head Constable",
+    "state": "Assam"
+  },
+  {
+    "name": "Maninder Singh Attri",
+    "position": "Constable",
+    "state": "Punjab"
+  },
+  {
+    "name": "Manoja Kumar Behera",
+    "position": "Constable",
+    "state": "Odisha"
+  },
+  {
+    "name": "Mohan Lal",
+    "position": "Assistant Sub Inspector",
+    "state": "Uttarakhand"
+  },
+  {
+    "name": "Narayan Lal Gurjar",
+    "position": "Head Constable",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Naseer Ahmad",
+    "position": "Head Constable",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Pankaj Kumar Tripathi",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "PK Sahoo",
+    "position": "Head Constable",
+    "state": "Odisha"
+  },
+  {
+    "name": "Pradeep Kumar",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Pradeep Singh",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ram Vakeel",
+    "position": "Head Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ramesh Yadav",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ratan Kumar Thakur",
+    "position": "Constable",
+    "state": "Bihar"
+  },
+  {
+    "name": "Rathod Nitin Shivaji",
+    "position": "Constable",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Rohitash Lamba",
+    "position": "Constable",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Sanjay Kumar Sinha",
+    "position": "Head Constable",
+    "state": "Bihar"
+  },
+  {
+    "name": "Sanjay Rajput",
+    "position": "Head Constable",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Shyam Babu",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Sivachandran",
+    "position": "Constable",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Subramaniam G",
+    "position": "Constable",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Sudeep Biswas",
+    "position": "Constable",
+    "state": "West Bengal"
   }
 ]
