@@ -8,11 +8,19 @@ dotenv.config();
 const start = async () => {
   try {
     await connectDb(process.env.MONGODB_URL);
+
+    
+    await soldiersList.deleteMany({});
+    console.log("Old data deleted!");
+
+    
     await soldiersList.create(soldierJson);
-    console.log("success");
+    console.log("New data inserted successfully!");
+
   } catch (error) {
-    console.log(error);
+    console.log("Error:", error);
   }
 };
 
 start();
+

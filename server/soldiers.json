@@ -168,5 +168,35 @@
     "name": "Sudeep Biswas",
     "position": "Constable",
     "state": "West Bengal"
+  },
+  {
+    "name": "Sukhjinder Singh",
+    "position": "Constable",
+    "state": "Punjab"
+  },
+  {
+    "name": "Tilak Raj",
+    "position": "Constable",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "name": "Vasantha Kumar VV",
+    "position": "Constable",
+    "state": "Kerala"
+  },
+  {
+    "name": "Vijay Kr. Mourya",
+    "position": "Constable",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Vijay Soreng",
+    "position": "Head Constable",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Virendra Singh",
+    "position": "Constable",
+    "state": "Uttarakhand"
   }
 ]
