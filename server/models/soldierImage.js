@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const soldiersList = new mongoose.Schema(
+const soldiersLImage = new mongoose.Schema(
   {
     name: {
       type: String,
@@ -14,10 +14,10 @@ const soldiersList = new mongoose.Schema(
       type: String,
       required: true,
     },
-    // image: {
-    //   type: String,
-    //   required: true,
-    // },
+    image: {
+      type: String,
+      required: true,
+    },
     createdAt: {
       type: Date,
       default: Date.now(),
@@ -26,4 +26,4 @@ const soldiersList = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("solder", soldiersList);
+export default mongoose.model("newsoldier", soldiersLImage);
